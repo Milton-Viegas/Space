@@ -12,6 +12,7 @@ header {
 
 header h1 {
 	margin: 0;
+	font-size: 120px;
 }
 
 nav ul {
@@ -76,5 +77,6 @@ form input[type="submit"]:hover {
 
 footer {
 	background-color: #333;
-	color: #fff
+	color: #fff;
+	text-align: center;
 }
